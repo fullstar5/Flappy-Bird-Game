@@ -1,2 +1,2 @@
-# plane-combat
-plant combat game practice
+# Flappy-Bird Game
+Flappy-Bird Game practice
